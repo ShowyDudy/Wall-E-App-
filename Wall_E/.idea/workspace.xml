@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3dc87ed-d477-4af2-957f-9531b9d62051" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="D:\" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nkbxjgXSN0xIafeskGn8vzUh55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gshiv\Downloads\JIbba\Wall_E\wall_e_app\lib" />
+      <recent name="C:\Users\gshiv\Downloads\JIbba\Wall_E\lib" />
+      <recent name="C:\Users\gshiv\Downloads\JIbba\gallery_saver-master\example\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gshiv\Downloads\JIbba\gallery_saver-master\example" />
+      <recent name="C:\Users\gshiv\Downloads\JIbba\gallery_saver-master\example\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/wall_e_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3dc87ed-d477-4af2-957f-9531b9d62051" name="Default Changelist" comment="" />
+      <created>1611937283481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611937283481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2505" y="391" key="#Notifications" timestamp="1611943807809">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="391" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611943807809" />
+    <state x="2346" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611961796429">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2346" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611961796429" />
+    <state x="2609" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1611939889164">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611939889164" />
+    <state x="2130" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612328304325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2130" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612328304325" />
+    <state x="2572" y="256" key="#main.dart" timestamp="1611939892148">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2572" y="256" key="#main.dart/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611939892148" />
+    <state x="2400" y="269" key="FileChooserDialogImpl" timestamp="1612152024996">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2400" y="269" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612152024996" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom" timestamp="1612397847595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612397847595" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612386353899" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center" timestamp="1612397847595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612397847595" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612386353899" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left" timestamp="1612397847594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612397847594" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612386353899" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right" timestamp="1612397847595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612397847595" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612386353899" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1611943782181">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611943782181" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1611957027838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611957027838" />
+    <state x="2266" y="242" key="run.anything.popup" timestamp="1612045341684">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2266" y="242" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612045341684" />
+  </component>
+</project>

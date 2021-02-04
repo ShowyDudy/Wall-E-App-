@@ -1,0 +1,28 @@
+name: gallery_saver_example
+description: Companion app by 99000 Vikings for Wall-E
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter_swiper:
+  image_picker:
+  path_provider:
+  http:
+  battery:
+  battery_indicator:
+
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  gallery_saver:
+    path: ../
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
